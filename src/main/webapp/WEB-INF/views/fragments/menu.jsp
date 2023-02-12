@@ -24,6 +24,7 @@
 			<acme:menu-suboption code="master.menu.anonymous.diegarlin-favourite-link" action="https://skin.club/es"/>
 			<acme:menu-suboption code="master.menu.anonymous.marmarsol4-favourite-link" action="https://www.youtube.com/watch?v=vmWXp4865_Y"/>
 			<acme:menu-suboption code="master.menu.anonymous.ursgarsan-favourite-link" action="https://www.youtube.com/watch?v=0vNQcVtJGNI"/>
+			<acme:menu-suboption code="master.menu.anonymous.juamornav3-favourite-link" action="https://youtu.be/Fg-QgGcCYzs"/>
 		</acme:menu-option>
 
 		<acme:menu-option code="master.menu.administrator" access="hasRole('Administrator')">
