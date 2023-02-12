@@ -20,6 +20,9 @@
 	<acme:menu-left>
 		<acme:menu-option code="master.menu.anonymous" access="isAnonymous()">
 			<acme:menu-suboption code="master.menu.anonymous.favourite-link" action="http://www.example.com/"/>
+			<acme:menu-suboption code="master.menu.anonymous.olemornav-favourite-link" action="https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley"/>
+			<acme:menu-suboption code="master.menu.anonymous.diegarlin-favourite-link" action="https://skin.club/es"/>
+			<acme:menu-suboption code="master.menu.anonymous.marmarsol4-favourite-link" action="https://www.youtube.com/watch?v=vmWXp4865_Y"/>
 		</acme:menu-option>
 
 		<acme:menu-option code="master.menu.administrator" access="hasRole('Administrator')">
