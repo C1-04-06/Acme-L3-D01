@@ -22,7 +22,7 @@
 	<description>This is a DP2 project for the students to learn about Design &amp; Testing.</description>
 
 	<groupId>C1.04.06</groupId>	
-	<artifactId>Acme-L3</artifactId>
+	<artifactId>Acme-L3-D01</artifactId>
 	<version>23.1.0</version>
 	<packaging>war</packaging>
 
